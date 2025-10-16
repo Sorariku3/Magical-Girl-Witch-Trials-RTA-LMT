@@ -1,7 +1,7 @@
 # Magical-Girl-Witch-Trials-RTA-LMT
 
-再配布: 可能
-改変: 禁止
+再配布: 可能、
+改変: 禁止、
 商用利用: 禁止
 
 【手順(仮説明)】
