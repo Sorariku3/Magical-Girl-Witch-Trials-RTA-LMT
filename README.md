@@ -9,7 +9,7 @@
 
 2.ComponentsフォルダにManosabaRTA_test.dllを入れる。
 
-3.LIveSplitを起動
+3.LIveSplitを起動 (先にまのさばを起動してください)
 
 4.左クリック→Edit Layout → + → Control → Manosaba RTA
 
