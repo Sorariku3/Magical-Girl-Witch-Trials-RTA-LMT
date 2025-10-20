@@ -6,7 +6,7 @@
 
 2種類ございますが、どちらかだけを導入してください。
 
-ダウンロードはReleaseからできます。まのさばのバージョンに対応したものをダウンロードしてください。
+ダウンロードはReleasesからできます。まのさばのバージョンに対応したものをダウンロードしてください。
 
 問題がございましたらこちらの方へ連絡をお願いします。
 【X】@sorrarikukilusu
@@ -55,7 +55,7 @@ This tool excludes load times from the timer.
 
 There are two versions available — please install only one of them.
 
-You can download it from the section labeled “Release.”
+You can download it from the section labeled “Releases.”
 Please make sure to download the one that matches your version of Manosaba.
 
 If you encounter any issues, please contact me here: 【X】@sorrarikukilusu
