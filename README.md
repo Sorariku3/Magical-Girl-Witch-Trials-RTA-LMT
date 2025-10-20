@@ -1,6 +1,7 @@
 # Magical-Girl-Witch-Trials-RTA-LMT
 
 こちらはロード時間をタイムから除外するものです。
+2種類ございますが、どちらかを導入してください。
 
 問題がございましたらこちらの方へ連絡をお願いします。
 【X】@sorrarikukilusu
