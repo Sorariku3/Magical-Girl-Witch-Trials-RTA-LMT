@@ -1,5 +1,7 @@
 # Magical-Girl-Witch-Trials-RTA-LMT
 
+【日本語】
+
 こちらはロード時間をタイムから除外するものです。
 
 2種類ございますが、どちらかだけを導入してください。
@@ -44,3 +46,39 @@
 1.LiveSplit上で右クリック → Edit Layout → + → Scriptable Auto Spliter
 
 2.Scriptable Auto Spliterをダブルクリック → BrowseでmanosabaRTA_ver.aslを選択
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+【English】
+
+【dll version】
+Created by Sorariku
+
+Excludes load times
+
+Changes timer color during loading
+
+Auto-start feature
+
+Installation steps:
+
+Open your LiveSplit folder (by default named LiveSplit_ver).
+
+Place ManosabaRTA_test.dll inside the Components folder.
+
+In LiveSplit, right-click → Edit Layout → + → Control → Manosaba RTA
+
+In the Layout Editor (where you added Manosaba RTA), right-click Timer → Timing Method → select Game Time
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+【asl version】
+Created by Teranurupo
+
+Excludes load times
+
+ASL installation steps:
+
+In LiveSplit, right-click → Edit Layout → + → Scriptable Auto Splitter
+
+Double-click Scriptable Auto Splitter → click Browse → select manosabaRTA_ver.asl
