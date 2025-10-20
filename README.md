@@ -54,31 +54,31 @@
 【dll version】
 Created by Sorariku
 
-Excludes load times
+・Excludes load times
 
-Changes timer color during loading
+・Changes timer color during loading
 
-Auto-start feature
+・Auto-start feature
 
-Installation steps:
+【Installation steps】
 
-Open your LiveSplit folder (by default named LiveSplit_ver).
+1.Open your LiveSplit folder (by default named LiveSplit_ver).
 
-Place ManosabaRTA_test.dll inside the Components folder.
+2.Place ManosabaRTA_test.dll inside the Components folder.
 
-In LiveSplit, right-click → Edit Layout → + → Control → Manosaba RTA
+3.In LiveSplit, right-click → Edit Layout → + → Control → Manosaba RTA
 
-In the Layout Editor (where you added Manosaba RTA), right-click Timer → Timing Method → select Game Time
+4.In the Layout Editor (where you added Manosaba RTA), right-click Timer → Timing Method → select Game Time
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 【asl version】
 Created by Teranurupo
 
-Excludes load times
+・Excludes load times
 
-ASL installation steps:
+【installation steps】
 
-In LiveSplit, right-click → Edit Layout → + → Scriptable Auto Splitter
+1.In LiveSplit, right-click → Edit Layout → + → Scriptable Auto Splitter
 
-Double-click Scriptable Auto Splitter → click Browse → select manosabaRTA_ver.asl
+2.Double-click Scriptable Auto Splitter → click Browse → select manosabaRTA_ver.asl
