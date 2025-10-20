@@ -15,7 +15,8 @@
 ・ロード除外
 ・スタート自動
 
-【dll導入手順】　
+【dll導入手順】
+
 1.LiveSplitのファイルを開く (初期名だと LiveSplit_ver)
 
 2.ComponentsフォルダにManosabaRTA_test.dllを入れる。
@@ -30,6 +31,7 @@
 ・ロード除外
 
 【asl導入手順】
+
 1.LiveSplit上で右クリック → Edit Layout → + → Scriptable Auto Spliter
 
 2.Scriptable Auto Spliterをダブルクリック → BrowseでmanosabaRTA_ver.aslを選択
