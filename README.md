@@ -6,8 +6,7 @@
 
 2種類ございますが、どちらかだけを導入してください。
 
-You can download it from the section labeled “Release.”
-Please make sure to download the one that matches your version of Manosaba.
+ダウンロードはReleaseからできます。まのさばのバージョンに対応したものをダウンロードしてください。
 
 問題がございましたらこちらの方へ連絡をお願いします。
 【X】@sorrarikukilusu
@@ -17,7 +16,6 @@ Please make sure to download the one that matches your version of Manosaba.
 商用利用: 禁止
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 【dll】
 作成者 ソラリク
 
@@ -53,6 +51,16 @@ Please make sure to download the one that matches your version of Manosaba.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 【English】
+This tool excludes load times from the timer.
+
+There are two versions available — please install only one of them.
+
+You can download it from the section labeled “Release.”
+Please make sure to download the one that matches your version of Manosaba.
+
+If you encounter any issues, please contact me here: 【X】@sorrarikukilusu
+
+Redistribution: Allowed  Modification: Prohibited  Commercial use: Prohibited
 
 【dll version】
 Created by Sorariku
