@@ -6,6 +6,9 @@
 
 2種類ございますが、どちらかだけを導入してください。
 
+You can download it from the section labeled “Release.”
+Please make sure to download the one that matches your version of Manosaba.
+
 問題がございましたらこちらの方へ連絡をお願いします。
 【X】@sorrarikukilusu
 
